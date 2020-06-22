@@ -68,5 +68,8 @@ You can see this code in action at the XVEA [Vin Decoder](https://www.xvea.com/)
 
 ## License
 
+Copyright (c) Nicol Ocellir and XVEA.org.
+
+Released under the MIT License.
 
 
