@@ -56,12 +56,17 @@ function updateCount() {
 </script>
 ```
 
-## Screenshot
+### Screenshot
 
 ![alt text](https://i.imgur.com/SMVY6he.png)
 
 
+### In action
 
+You can see this code in action at the XVEA [Vin Decoder](https://www.xvea.com/) website.
+
+
+## License
 
 
 
