@@ -1,7 +1,7 @@
 # DynamicCount
 
 ## Description
-Javascript code to show a dynamic (updates as you type) count of the number of characters in a text box with adjustable colour depending on the amount entered. Requires JQuery.
+Javascript code to show a dynamic count (updates as you type) of the number of characters in a text box with adjustable colour depending on the amount entered. Requires JQuery.
 
 ## Features
 
